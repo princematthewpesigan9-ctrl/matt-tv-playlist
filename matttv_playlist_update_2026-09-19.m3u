@@ -4,7 +4,7 @@
 
 **********LOCAL**********
 
-#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="Cignal",TV5
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="LOCAL",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
